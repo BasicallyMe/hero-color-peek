@@ -1,13 +1,13 @@
-import { Button, ColorInputBar } from './components';
+import { ColorInputBar, UserInterface } from './components';
 import '@fontsource-variable/inter/wght.css';
+import './reset.css';
 import "./App.css";
 
 function App() {
   return (
     <div className="container">
-      <h1>Hero Color Peeker</h1>
-      <ColorInputBar />
-      <Button title="Start" />
+      <UserInterface />
+      {/* <ColorInputBar /> */}
     </div>
   );
 }
