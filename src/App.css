@@ -1,3 +1,25 @@
 .container {
-    font-family: 'Inter', sans-serif; 
+    font-family: 'Inter Variable', sans-serif;
+    color: #2D2E2E;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+h2 {
+    font-size: 3.5rem;
+}
+
+h3 {
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+p {
+    font-weight: 400;
+    font-size: 1rem;
+    margin-bottom: 1rem;
 }

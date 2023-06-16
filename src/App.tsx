@@ -1,5 +1,5 @@
 import { ColorInputBar, UserInterface } from './components';
-import '@fontsource-variable/inter/wght.css';
+import '@fontsource-variable/inter';
 import './reset.css';
 import "./App.css";
 
